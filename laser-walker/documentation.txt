@@ -1,0 +1,8 @@
+2-14
+Photodiode amplifier circuit does not work. 
+The output is a nearly constant 3.66 volts regardless of whether or not light is hitting the photodiode.
+I think I will remove the photodiode from the circuit and see what the output is.
+Possible problems:
+I need to trim the first op amp with a pot
+I put the resistors in the wrong places
+Photodiode is fried...
